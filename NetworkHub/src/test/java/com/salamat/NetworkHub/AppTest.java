@@ -49,7 +49,7 @@ public class AppTest
 
     @AfterTest
     public void closeSelenium(){
-        //Shutdown the browser
+      
         driver.quit();
     }
 }
