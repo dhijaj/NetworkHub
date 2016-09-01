@@ -12,9 +12,8 @@ import static org.testng.Assert.assertEquals;
 public class AppTest 
 
 {
+	// sample comment
 
-
-    //The 'browser' itself
     private WebDriver driver;
 
     @BeforeTest
